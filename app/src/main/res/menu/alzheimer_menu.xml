@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/add_memory" android:title="Anı Ekle"></item>
+    <item android:id="@+id/add_location" android:title="Konum Ekle"></item>
+    <item android:id="@+id/add_task" android:title="Görev Yap"></item>
+    <item android:id="@+id/add_signout" android:title="Çıkış Yap"></item>
+
+</menu>
